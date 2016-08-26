@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab01c2016</string>
+    <string name="correo">Correo Electronico</string>
+    <string name="CUIT">CUIT</string>
+    <string name="monto">Importe</string>
+    <string name="dias_seleccionados">Dias Seleccionados</string>
+    <string name="cant_dias">Cantidad de dias</string>
+    <string name="rendimiento">Rendimiento</string>
+
+    <string name="boton">HACER PLAZO FIJO</string>
+    <string name="checkbox">Renovar Automaticamente al Vencimiento</string>
+</resources>

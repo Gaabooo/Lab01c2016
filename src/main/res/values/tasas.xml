@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tasa0a5000menor30">0.250</string>
+    <string name="tasa0a5000mayor30">0.275</string>
+    <string name="tasa50000a99999menor30">0.300</string>
+    <string name="tasa50000a99999mayor30">0.323</string>
+    <string name="tasamaxmenor30">0.350</string>
+    <string name="tasamaxmayor30">0.385</string>
+</resources>
